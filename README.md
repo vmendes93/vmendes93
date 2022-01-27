@@ -17,7 +17,7 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 
 #### Onde me achar:
 
-[<img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/domain.png" />](https://vmendes.xyz/)
+[<img align="left" width="46px" src="https://img.icons8.com/fluency/48/000000/domain.png" />](https://vmendes.xyz/)
 [<img align="left" width="46px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/viniciustm/)
 [<img align="left" width="46px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/v.mendes93/)
 [<img align="left" width="46px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />](https://twitter.com/xerxes_tm)
@@ -60,7 +60,7 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 
 #### Where to find me:
 
-[<img align="left" width="22px" src="https://img.icons8.com/fluency/48/000000/domain.png" />](https://vmendes.xyz/)
+[<img align="left" width="46px" src="https://img.icons8.com/fluency/48/000000/domain.png" />](https://vmendes.xyz/)
 [<img align="left" width="46px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/viniciustm/)
 [<img align="left" width="46px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/v.mendes93/)
 [<img align="left" width="46px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />](https://twitter.com/xerxes_tm)
