@@ -41,6 +41,9 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
 
 ## 🇧🇷
