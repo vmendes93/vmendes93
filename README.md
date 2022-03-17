@@ -25,19 +25,19 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 
 #### Languages & Tools:
 
-[<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
-[<img align="left" width="53px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
+[<img align="left" width="50px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
 [<img align="left" src="https://img.icons8.com/color/50/000000/numpy.png"/>](https://numpy.org/)
-[<img align="left" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
-[<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
+[<img align="left" width="36px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
+[<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
 [<img align="left" width="36px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />](https://streamlit.io/)
-[<img align="left" src="https://img.icons8.com/fluency/50/000000/jupyter.png"/>](https://jupyter.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
+[<img align="left" width="36px" src="https://img.icons8.com/fluency/50/000000/jupyter.png"/>](https://jupyter.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
 [<img align="left" width="36px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/>](https://www.postgresql.org/)
-[<img align="left" src="https://img.icons8.com/fluency/48/000000/texshop.png"/>](https://www.latex-project.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>](https://www.linux.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
-[<img align="left" width="44px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>](https://www.gnu.org/software/bash/)
+[<img align="left" width="36px" src="https://img.icons8.com/fluency/48/000000/texshop.png"/>](https://www.latex-project.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>](https://www.linux.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
+[<img align="left" width="40px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>](https://www.gnu.org/software/bash/)
 </br>
 </br>
 </br>
@@ -74,16 +74,16 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 
 #### Linguagens e Ferramentas:
 
-[<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
-[<img align="left" width="53px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
+[<img align="left" width="50px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
 [<img align="left" src="https://img.icons8.com/color/50/000000/numpy.png"/>](https://numpy.org/)
-[<img align="left" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
-[<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
+[<img align="left" width="36px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
+[<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
 [<img align="left" width="36px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" />](https://streamlit.io/)
-[<img align="left" src="https://img.icons8.com/fluency/50/000000/jupyter.png"/>](https://jupyter.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
+[<img align="left" width="36px" src="https://img.icons8.com/fluency/50/000000/jupyter.png"/>](https://jupyter.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)
 [<img align="left" width="36px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/>](https://www.postgresql.org/)
-[<img align="left" src="https://img.icons8.com/fluency/48/000000/texshop.png"/>](https://www.latex-project.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>](https://www.linux.org/)
-[<img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
-[<img align="left" width="44px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>](https://www.gnu.org/software/bash/)
+[<img align="left" width="36px" src="https://img.icons8.com/fluency/48/000000/texshop.png"/>](https://www.latex-project.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/linux--v2.png"/>](https://www.linux.org/)
+[<img align="left" width="36px" src="https://img.icons8.com/color/48/000000/git.png"/>](https://git-scm.com/)
+[<img align="left" width="40px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>](https://www.gnu.org/software/bash/)
