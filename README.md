@@ -26,7 +26,7 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 #### Languages & Tools:
 
 [<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
-[<img align="left" width="60px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
+[<img align="left" width="53px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
 [<img align="left" src="https://img.icons8.com/color/50/000000/numpy.png"/>](https://numpy.org/)
 [<img align="left" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
 [<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
@@ -75,7 +75,7 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 #### Linguagens e Ferramentas:
 
 [<img align="left" src="https://img.icons8.com/color/48/000000/python--v1.png"/>](https://www.python.org/)
-[<img align="left" width="60px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
+[<img align="left" width="53px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />](https://pandas.pydata.org/)
 [<img align="left" src="https://img.icons8.com/color/50/000000/numpy.png"/>](https://numpy.org/)
 [<img align="left" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>](https://seaborn.pydata.org/)
 [<img align="left" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png"/>](https://matplotlib.org/)
