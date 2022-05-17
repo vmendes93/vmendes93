@@ -24,7 +24,8 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 </br>
 </br>
 
-#### Tech Stack
+</br>
+</br>
 
 #### Programming languages
 
@@ -105,8 +106,6 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 
 </br>
 </br>
-
-#### Meu Stack
 
 #### Linguagens de programação
 
