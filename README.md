@@ -4,7 +4,7 @@
 ### About me
 
 #### Hey there folks!
-My name is Vinicius Mendes, but I prefer Vince in English. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with water borewell drilling, but slowly shifting my career toward data analysis and data science. Maybe in the future I'll be doing data models as a geologist (my dream job, really).
+My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with water borewell drilling, but slowly shifting my career toward data analysis and data science. Maybe in the future I'll be doing data models as a geologist (my dream job, really).
 
 I have experience in spatial data analysis, georeferencing, fieldwork research, and creating spatial statistical models. I've also briefly worked as an ESL teacher and translating articles and many other documents.
 
