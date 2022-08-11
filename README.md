@@ -30,7 +30,6 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 #### Programming languages
 
 [<img align="left" width="60px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"/>](https://go.dev/)
-[<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>](https://isocpp.org/)
 
 </br>
 </br>
@@ -110,7 +109,6 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 #### Linguagens de programação
 
 [<img align="left" width="60px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"/>](https://go.dev/)
-[<img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>](https://isocpp.org/)
 
 </br>
 </br>
