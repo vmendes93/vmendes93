@@ -4,14 +4,14 @@
 ### About me
 
 #### Hey there folks!
-My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with water borewell drilling, but slowly shifting my career toward data analysis and data science. Maybe in the future I'll be doing data models as a geologist (my dream job, really).
+My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with InSAR data processing and modelling.
 
-I have experience in spatial data analysis, georeferencing, fieldwork research, and creating spatial statistical models. I've also briefly worked as an ESL teacher and translating articles and many other documents.
+I have experience in spatial data analysis, georeferencing, fieldwork research, and creating spatial statistical models. I've also briefly worked as an ESL teacher and translating scientific articles.
 
-- 🔭 Currently learning Data Science with [Let's Code](https://letscode.com.br/)
-- 🛠️ Insterested in working with time series
+- 🔭 Currently working in the remote sensing field
+- 🛠️ Time series, CNN's, and GIS are my thing
 - 🐧 Open-source and **DIY** enthusiast
-- 🐶 I have three dogs
+- 🐶 Dog person
 
 #### Where to find me
 
@@ -23,6 +23,15 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 
 </br>
 </br>
+
+</br>
+</br>
+
+#### My GIS Stack
+
+[<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>](https://www.arcgis.com/index.html)
+[<img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg"/>](https://qgis.org/en/site/)
+[<img align="left" width="150px" src="https://www.l3harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png"/>](https://www.l3harrisgeospatial.com/Software-Technology/ENVI)
 
 </br>
 </br>
@@ -86,10 +95,10 @@ Meu nome é Vinicius Mendes, sou cientista de dados, geólogo, professor, e um e
 
 Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa de campo, e criação de modelos espaciais estatísticos. Também já trabalhei dando aulas de inglês e traduzindo artigos e documentos diversos.
 
-- 🔭 Atualmente estudando Ciência de Dados pela [Let's Code](https://letscode.com.br/)
-- 🛠️ Tenho interesse em trabalhar com séries temporais
+- 🔭 Atualmente trabalhando na área de sensoriamento remoto
+- 🛠️ Séries temporais, Redes Neurais, e SIG são meus maiores interesses
 - 🐧 Entusiasta de tudo o que é *open-source* e **D.I.Y.** (faça você mesmo)
-- 🐶 Tenho três cachorros
+- 🐶 Gosto de cachorros
 
 
 #### Conecte-se comigo
@@ -102,6 +111,12 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 
 </br>
 </br>
+
+#### Meu *stack* de SIG
+
+[<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>](https://www.arcgis.com/index.html)
+[<img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg"/>](https://qgis.org/en/site/)
+[<img align="left" width="150px" src="https://www.l3harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png"/>](https://www.l3harrisgeospatial.com/Software-Technology/ENVI)
 
 </br>
 </br>
