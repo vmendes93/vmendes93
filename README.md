@@ -4,7 +4,7 @@
 ### About me
 
 #### Hey there folks!
-My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with InSAR data processing and modelling.
+My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with InSAR data processing data quality control procedures.
 
 I have experience in spatial data analysis, georeferencing, fieldwork research, and creating spatial statistical models. I've also briefly worked as an ESL teacher and translating scientific articles.
 
