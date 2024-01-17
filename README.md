@@ -31,7 +31,6 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 
 [<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>](https://www.arcgis.com/index.html)
 [<img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg"/>](https://qgis.org/en/site/)
-[<img align="left" width="150px" src="https://www.l3harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png"/>](https://www.l3harrisgeospatial.com/Software-Technology/ENVI)
 
 </br>
 </br>
@@ -116,7 +115,6 @@ Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa 
 
 [<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/>](https://www.arcgis.com/index.html)
 [<img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg"/>](https://qgis.org/en/site/)
-[<img align="left" width="150px" src="https://www.l3harrisgeospatial.com/portals/0/Images/ENVI_Icon_ColorLogo.png"/>](https://www.l3harrisgeospatial.com/Software-Technology/ENVI)
 
 </br>
 </br>
