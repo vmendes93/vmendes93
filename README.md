@@ -4,7 +4,7 @@
 ### About me
 
 #### Hey there folks!
-My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil, in Southern Minas Gerais; currently working with InSAR data processing data quality control procedures.
+My name is Vinicius Mendes, but you can call me Vinnie. I'm a data scientist, geologist, teacher, and enthusiast for all-things-tech. I live in Brazil; currently working with InSAR data processing data quality control procedures.
 
 I have experience in spatial data analysis, georeferencing, fieldwork research, and creating spatial statistical models. I've also briefly worked as an ESL teacher and translating scientific articles.
 
@@ -90,7 +90,7 @@ I have experience in spatial data analysis, georeferencing, fieldwork research, 
 ### Sobre mim
 
 #### Olá pessoal! 
-Meu nome é Vinicius Mendes, sou cientista de dados, geólogo, professor, e um entusiasta de tudo que é tecnológico. Sou do Brasil e moro no sul de Minas Gerais. Atualmente trabalho com poços tubulares profundos para água mas pretendo migrar para a área de análise de dados de maneira definitiva (espero que ainda dentro da geologia).
+Meu nome é Vinicius Mendes, sou cientista de dados, geólogo, professor, e um entusiasta de tudo que é tecnológico. Sou do Brasil e atualmente trabalho com poços tubulares profundos para água mas pretendo migrar para a área de análise de dados de maneira definitiva (espero que ainda dentro da geologia).
 
 Tenho experiência com análise espacial de dados, georeferenciamento, pesquisa de campo, e criação de modelos espaciais estatísticos. Também já trabalhei dando aulas de inglês e traduzindo artigos e documentos diversos.
 
