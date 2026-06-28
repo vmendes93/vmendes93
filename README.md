@@ -125,7 +125,6 @@ Me interesan especialmente los problemas aplicados de geociencias en los que el 
   <img src="https://img.icons8.com/fluency/50/000000/jupyter.png" alt="Jupyter" height="40" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" />
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png" alt="Linux" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png" alt="Vim" height="40" />
 </div>
 
 ---
